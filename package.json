@@ -1,0 +1,26 @@
+{
+  "name": "vuejstutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlnmargary/VueJsTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlnmargary/VueJsTutorial/issues"
+  },
+  "homepage": "https://github.com/hlnmargary/VueJsTutorial#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
